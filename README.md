@@ -6,15 +6,15 @@
 
 展示效果：
 
-![登陆界面](C:\Users\guansheng\Desktop\md文件\imitateqq图片\登陆.png)
+![登陆界面](https://github.com/xieguansheng/ImitateQQ/edit/master/images/登陆.png)
 
-![注册界面](C:\Users\guansheng\Desktop\md文件\imitateqq图片\注册.png)
+![注册界面](https://github.com/xieguansheng/ImitateQQ/edit/master/images/注册.png)
 
-![用户主界面](C:\Users\guansheng\Desktop\md文件\imitateqq图片\用户.png)
+![用户主界面](https://github.com/xieguansheng/ImitateQQ/edit/master/images/用户.png)
 
-![查找好友界面](C:\Users\guansheng\Desktop\md文件\imitateqq图片\好友.png)
+![查找好友界面](https://github.com/xieguansheng/ImitateQQ/edit/master/images/好友.png)
 
 
 
-![聊天界面](C:\Users\guansheng\Desktop\md文件\imitateqq图片\聊天.png)
+![聊天界面](https://github.com/xieguansheng/ImitateQQ/edit/master/images/聊天.png)
 
